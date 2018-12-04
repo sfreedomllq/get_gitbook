@@ -5,8 +5,12 @@ You can run this script to get the book you want from gitbook.
 ## Preperation
 
 First of all , Python must be installed.
-Then you can use pip to install requests,beautifulsoup,pdfkit and PyPDF2.
-wkhtmltopdf is needed.
+The following are needed:
+- requests
+- beautifulsoup
+- pdfkit
+- PyPDF2
+- wkhtmltopdf 
 
 After finishing these installation,change the url in the main function and enjoy!
 
